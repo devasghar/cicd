@@ -1,0 +1,9 @@
+#Packages
+vendor/
+
+#Lock file
+composer.lock
+
+#OS & Editors
+.DS_Store
+.idea

@@ -1,0 +1,26 @@
+{
+    "name": "devasghar/cicd",
+    "description": "Library intended for continuous integration and continuous delivery",
+    "keywords": [
+        "ci",
+        "cd",
+        "cicd"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "devasghar",
+            "email": "dev.asghar@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "devasghar\\cicd\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
